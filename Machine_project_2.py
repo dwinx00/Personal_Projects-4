@@ -4,7 +4,7 @@ Program Description: Library Management Program with Fee Management
 IDE Platform : Pycharm
 Date Written : 03-24-2024
 Date Modified : 03-24-2024
-Programmers : Aldwin Guanzon, Angelo Rojo, Cristoff Piano
+Programmers : Aldwin Guanzon
 
 """
 
