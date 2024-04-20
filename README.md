@@ -1,6 +1,7 @@
 # Description
 
-This repository contains a simple python project. It is designed to help manage various projects, such as managing a bank manager, inventory system, etc.
+This repository contains a  python project. Library Management Program with Fee Management that should allow for book loans, returns, fee management, and reporting.
+It Object-Oriented Programming and Use a text file to store all.
 
 # License
 
